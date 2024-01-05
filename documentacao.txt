@@ -1,0 +1,6 @@
+Site oficial bootstrap:
+https://getbootstrap.com/
+
+Open source e gratuito
+
+Quando instalamos o bootstrap temos uma padronização de componentes.
