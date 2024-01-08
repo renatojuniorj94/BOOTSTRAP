@@ -6,3 +6,37 @@ Open source e gratuito
 Quando instalamos o bootstrap temos uma padronização de componentes.
 
 Ler toda a documentação, começando por "Getting started".
+
+----------AULA 2 - Navbar e cores----------
+
+Para termos mais opções, vamos na página "examples (exemplos)"
+navbars > f12 > copiamos a tag nav referente ao nav escolhido e colamos no projeto.
+
+Para alterar as cores:
+https://getbootstrap.com/docs/5.3/customize/color/
+
+Docs > customize > color
+
+Por padrão o bootstrap vem com 8 cores:
+
+-Primary (azul)
+-Secondary (cinza)
+-Sucess (verde)
+-Danger (vermelho)
+-Warning (amarelo)
+-Info (azul turquesa)
+-Dark (preto)
+
+para alterar a cor na tag nav:
+
+Por padrão a cor vem:
+
+bg-dark (nesse caso pegamos um navbar com a preta como padrão)
+
+Ou tiramos bg-dark (ou o outro tema) dentro da classe e colocamos:
+
+<nav class="navbar navbar-light" style"background-color: #(Aqui colocamos a cor)"
+
+Para mudar a cor da fonte dentro do navbar:
+
+dentro da classe alteramos o navbar-(aqui mudamos a cor)
