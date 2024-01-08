@@ -5,4 +5,4 @@ Open source e gratuito
 
 Quando instalamos o bootstrap temos uma padronização de componentes.
 
-Ler toda a documentação, começando por "Getting started"
+Ler toda a documentação, começando por "Getting started".
