@@ -49,6 +49,25 @@ colocamos todo conteúdo dentro da tag "body" dentro de uma "div" com a "class="
 
 Ex: <div class="container">
 
-        conteúdo da tag "body"
+        conteúdo "body"
     
     </div>
+
+clas="container-fluid" > coloca o espaçamento dos itens nas extremidades da tela
+
+Derterminando a ocupação das colunas dentro dos grids (Total de grids em telas largas: 12):
+
+class="col-lg-8"
+
+col = coluna
+lg = tela larga
+8 = ocupando 8 grids
+
+Outras propriedas de largura em diferentes tamanhos de dispositivos:
+
+X-Small <576px
+Small(sm) >576px
+Medium(md) >768px
+Large(lg) >992px
+Extra large(xl) > 1200px
+Extra extra large(xxl) > 1400px
