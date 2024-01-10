@@ -40,3 +40,4 @@ Ou tiramos bg-dark (ou o outro tema) dentro da classe e colocamos:
 Para mudar a cor da fonte dentro do navbar:
 
 dentro da classe alteramos o navbar-(aqui mudamos a cor)
+
