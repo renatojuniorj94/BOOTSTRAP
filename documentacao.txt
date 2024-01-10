@@ -41,3 +41,14 @@ Para mudar a cor da fonte dentro do navbar:
 
 dentro da classe alteramos o navbar-(aqui mudamos a cor)
 
+---------Aula 3 - Container e grid---------
+
+https://getbootstrap.com/docs/5.3/layout/containers/
+
+colocamos todo conteúdo dentro da tag "body" dentro de uma "div" com a "class="container".
+
+Ex: <div class="container">
+
+        conteúdo da tag "body"
+    
+    </div>
