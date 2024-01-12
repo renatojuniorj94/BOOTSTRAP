@@ -71,3 +71,11 @@ Medium(md) >768px
 Large(lg) >992px
 Extra large(xl) > 1200px
 Extra extra large(xxl) > 1400px
+
+-----------Aula 4 - Buttons, margins e paddings----------
+
+https://getbootstrap.com/docs/5.3/components/buttons/ (buttons)
+https://getbootstrap.com/docs/5.3/utilities/spacing/ (Utilities > spacing)
+
+Abaixo nós temos a tag para colocar o button em nosso site.
+<button type="button" class="btn btn-primary">Primary</button>
