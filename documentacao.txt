@@ -89,3 +89,8 @@ A classe "img-fluid" mantem a imagem responsiva e com 100% de preechimento.
 Classe "img-thumbnail" coloca uma moldura na imagem.
 class="rounded float-start" > Coloca a imagem alinhada a esquerda
 Enquanto "rounded float-end" alinha a direita.
+
+---------------------Aula 6 - Tabelas----------------------
+
+https://getbootstrap.com/docs/5.3/content/tables/
+
