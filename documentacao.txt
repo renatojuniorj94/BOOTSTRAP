@@ -79,3 +79,9 @@ https://getbootstrap.com/docs/5.3/utilities/spacing/ (Utilities > spacing)
 
 Abaixo nós temos a tag para colocar o button em nosso site.
 <button type="button" class="btn btn-primary">Primary</button>
+
+-------------Aula 5 - Imagens e tipografia------------------
+
+https://getbootstrap.com/docs/5.3/content/images/
+
+A classe "img-fluid" mantem a imagem responsiva e com 100% de preechimento.
