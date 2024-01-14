@@ -83,5 +83,9 @@ Abaixo nós temos a tag para colocar o button em nosso site.
 -------------Aula 5 - Imagens e tipografia------------------
 
 https://getbootstrap.com/docs/5.3/content/images/
+https://getbootstrap.com/docs/5.3/content/typography/
 
 A classe "img-fluid" mantem a imagem responsiva e com 100% de preechimento.
+Classe "img-thumbnail" coloca uma moldura na imagem.
+class="rounded float-start" > Coloca a imagem alinhada a esquerda
+Enquanto "rounded float-end" alinha a direita.
