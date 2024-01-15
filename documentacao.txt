@@ -94,3 +94,12 @@ Enquanto "rounded float-end" alinha a direita.
 
 https://getbootstrap.com/docs/5.3/content/tables/
 
+------------------ Aula 7 - Formulários----------------------
+
+https://getbootstrap.com/docs/5.3/forms/form-control/
+
+Para desabilitar um campo colocamos "disabled" após a classe.
+
+value="Renato" e "readonly" usamos para deixar o campo já preenchido com "Renato", não podendo ser modificado.
+
+***Paramos a aula com 15:59***
