@@ -105,6 +105,12 @@ Para desabilitar um campo colocamos "disabled" após a classe.
 
 value="Renato" e "readonly" usamos para deixar o campo já preenchido com "Renato", não podendo ser modificado.
 
-----------------------Aula 8 - Accordion-------------------
+---------------Aula 8 - Accordion--------------
 
 https://getbootstrap.com/docs/5.3/components/accordion/
+
+------------------Aula 9 - Alerts -------------------
+
+https://getbootstrap.com/docs/5.3/components/alerts/
+
+No arquivo em HTML aprendemos a emitir um alerta ao clicar em um botão com Javascript

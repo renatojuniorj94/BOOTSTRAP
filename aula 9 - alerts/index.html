@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id="alerta" class="d-none alert alert-success" role="alert">
+        Download concluido com sucesso!
+      </div>
+    <button onclick="mostraAlerta()" type="button" class="btn btn-secondary">Download</button>
+
+    
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        function mostraAlerta() {
+            var alerta = document.getElementById('alerta')
+
+            alerta.classList.toggle('d-none')
+        }
+    </script>
+</body>
+</html>
