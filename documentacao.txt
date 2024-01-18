@@ -127,3 +127,9 @@ Badge são "distintivos", "etiquetas" que colocamos em tags como:
 - News (Id)
 
 Bradcrumb são uma especie de organização de páginas mostrando o caminho das mesmas.
+
+--------------Aula 11 - Button group-----------------
+
+https://getbootstrap.com/docs/5.3/components/button-group/
+
+Opção para conjunto de botões
