@@ -114,3 +114,16 @@ https://getbootstrap.com/docs/5.3/components/accordion/
 https://getbootstrap.com/docs/5.3/components/alerts/
 
 No arquivo em HTML aprendemos a emitir um alerta ao clicar em um botão com Javascript
+
+----------------Aula 10 - Badge e breadcrumb-----------------
+
+https://getbootstrap.com/docs/5.3/components/badge/
+https://getbootstrap.com/docs/5.3/components/breadcrumb/
+
+
+Badge são "distintivos", "etiquetas" que colocamos em tags como:
+- Quantidade de notificações
+- Carrinho de compras
+- News (Id)
+
+Bradcrumb são uma especie de organização de páginas mostrando o caminho das mesmas.
