@@ -133,3 +133,7 @@ Bradcrumb são uma especie de organização de páginas mostrando o caminho das 
 https://getbootstrap.com/docs/5.3/components/button-group/
 
 Opção para conjunto de botões
+
+---------------Aula 12 - Cards-----------------------
+
+https://getbootstrap.com/docs/5.3/components/card/
