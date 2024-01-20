@@ -137,3 +137,8 @@ Opção para conjunto de botões
 ---------------Aula 12 - Cards-----------------------
 
 https://getbootstrap.com/docs/5.3/components/card/
+
+---------------Aula 13 - Carousel------------------
+
+https://getbootstrap.com/docs/5.3/components/carousel/
+
