@@ -153,3 +153,8 @@ https://getbootstrap.com/docs/5.3/components/dropdowns/
 ----------------Aula 16 - List group-------------------
 
 https://getbootstrap.com/docs/5.3/components/list-group/
+
+------------------Aula 17 - Modal------------------------
+***REFAZER AULA***
+
+https://getbootstrap.com/docs/5.3/components/modal/
