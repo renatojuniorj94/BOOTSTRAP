@@ -162,3 +162,7 @@ https://getbootstrap.com/docs/5.3/components/modal/
 -----------------Aula 18 - Tabs------------------------
 
 https://getbootstrap.com/docs/5.3/components/navs-tabs/
+
+-----------------Aula 19 - Offcanvas------------------
+
+https://getbootstrap.com/docs/5.3/components/offcanvas/
