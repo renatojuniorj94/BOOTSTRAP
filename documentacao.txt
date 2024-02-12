@@ -170,3 +170,7 @@ https://getbootstrap.com/docs/5.3/components/offcanvas/
 -----------------Aula 23 - Scrollspy-------------------
 
 https://getbootstrap.com/docs/5.3/components/scrollspy/
+
+-----------------Aula 26 - Tooltips--------------------
+
+https://getbootstrap.com/docs/5.3/components/tooltips/
