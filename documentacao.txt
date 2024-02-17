@@ -171,6 +171,6 @@ https://getbootstrap.com/docs/5.3/components/offcanvas/
 
 https://getbootstrap.com/docs/5.3/components/scrollspy/
 
-------------------Aula 26 - Tooltips---------------------
+-----------------Aula 26 - Tooltips--------------------
 
 https://getbootstrap.com/docs/5.3/components/tooltips/
