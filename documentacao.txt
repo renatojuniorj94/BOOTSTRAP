@@ -186,3 +186,4 @@ Ler documentação oficial no site do bootstrap.
 https://icons.getbootstrap.com/icons/house-door-fill/
 
 projeto final
+paramos com 50 minutos
