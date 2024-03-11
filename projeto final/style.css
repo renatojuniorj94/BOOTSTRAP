@@ -9,3 +9,16 @@
     align-items: center;
     text-align: center;
 } */
+
+#ifooter{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.icone {
+    font-size: 20px; /* ajusta o tamanho do ícone conforme necessário */
+    margin-left: 5px; /* dá um espacinho entre o ícone e o texto */
+    margin-right: 5px;
+    vertical-align: middle; /* alinha o ícone verticalmente no centro do texto */
+  }
